@@ -16,7 +16,7 @@ import reactor.core.publisher.Mono;
 
 @Slf4j
 @RestController
-@RequestMapping("/agendas")
+@RequestMapping("/v1/agendas")
 @RequiredArgsConstructor
 @Tag(name = "Rscurso de gerenciamento de pautas")
 //@ApiResponse(responseCode = "500", description = "Erro interno")
