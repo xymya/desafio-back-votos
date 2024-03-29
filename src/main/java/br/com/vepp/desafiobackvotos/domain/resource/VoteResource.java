@@ -23,7 +23,7 @@ import reactor.core.publisher.Mono;
         @ApiResponse(responseCode = "500", description = "Erro interno")
 })
 @RestController
-@RequestMapping("/votes")
+@RequestMapping("/v1/votes")
 @RequiredArgsConstructor
 public class VoteResource {
 
