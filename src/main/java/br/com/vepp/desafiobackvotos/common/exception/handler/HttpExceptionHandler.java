@@ -28,7 +28,6 @@ public class HttpExceptionHandler extends ResponseEntityExceptionHandler {
                 new Date().getTime(),
                 e.getMessage(),
                 request.getRequest().getURI().toString());
-        //return Mono.just(status(HttpStatus.NOT_FOUND).body(error));
         return handleExceptionInternal(e, error, null, HttpStatus.NOT_FOUND, request);
     }
 
@@ -42,7 +41,6 @@ public class HttpExceptionHandler extends ResponseEntityExceptionHandler {
                 new Date().getTime(),
                 e.getMessage(),
                 request.getRequest().getURI().toString());
-        //return Mono.just(status(HttpStatus.BAD_REQUEST).body(error));
         return handleExceptionInternal(e, error, null, HttpStatus.NOT_FOUND, request);
     }
 
@@ -55,7 +53,6 @@ public class HttpExceptionHandler extends ResponseEntityExceptionHandler {
                 new Date().getTime(),
                 e.getMessage(),
                 request.getRequest().getURI().toString());
-        //return Mono.just(status(HttpStatus.NOT_FOUND).body(error));
         return handleExceptionInternal(e, error, null, HttpStatus.NOT_FOUND, request);
     }
 }
