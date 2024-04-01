@@ -12,7 +12,7 @@
 	<artifactId>desafio-back-votos</artifactId>
 	<version>1.0.1</version>
 	<name>desafio-back-votos</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Backoffice project for managing agendas and voting on Cooperative agendas</description>
 	<properties>
 		<java.version>17</java.version>
 		<maven.compiler.source>17</maven.compiler.source>
