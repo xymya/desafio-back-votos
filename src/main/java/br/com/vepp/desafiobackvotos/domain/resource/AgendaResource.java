@@ -19,7 +19,6 @@ import reactor.core.publisher.Mono;
 @RequestMapping("/v1/agendas")
 @RequiredArgsConstructor
 @Tag(name = "Rscurso de gerenciamento de pautas")
-//@ApiResponse(responseCode = "500", description = "Erro interno")
 public class AgendaResource {
 
     private final AgendaService agendaService;
