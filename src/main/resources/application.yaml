@@ -34,7 +34,7 @@ server:
   forward-headers-strategy: framework
 spring:
   application:
-    name: api-mongo-kafka
+    name: desafio-back-votos
 
   config:
     activate:
