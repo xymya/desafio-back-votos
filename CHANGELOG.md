@@ -8,7 +8,7 @@ e este projeto segue [Semantic Versioning](http://semver.org/).
 ### [yyyy-mm-dd]
 ### [actor]
 ### Adcionado
-- [ISSUE-XXXX](https://github.com/users/lucasfealves/projects/x?pane=issue&itemId=xxxxx)
+- [ISSUE-XXXX](https://github.com/users/jhoffmann89/projects/x?pane=issue&itemId=xxxxx)
     - Descrição breve das alteracões.
 
 ### Alterado
@@ -18,15 +18,15 @@ e este projeto segue [Semantic Versioning](http://semver.org/).
 ###########################################################################################
 ## [1.0.1] - feature/structure_Implementation
 ### [2024-03-28]
-### [Lucas Alves]
+### [Jonathann Hoffmann]
 ### Corrigido
-- [ISSUE-1](https://github.com/users/lucasfealves/projects/1?pane=issue&itemId=58037820)
+- [ISSUE-1](https://github.com/users/jhoffmann89/projects/1?pane=issue&itemId=58037820)
   - Include version path resources
 ## [1.0.0] - feature/structure_Implementation
 ### [2024-03-28]
-### [Lucas Alves]
+### [Jonathann Hoffmann]
 ### Adcionado
-- [ISSUE-1](https://github.com/users/lucasfealves/projects/1?pane=issue&itemId=58037820)
+- [ISSUE-1](https://github.com/users/jhoffmann89/projects/1?pane=issue&itemId=58037820)
   - Implements structure project
   - Implements Resources, services, repository's and tests units
 
